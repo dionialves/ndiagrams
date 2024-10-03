@@ -1,0 +1,14 @@
+{
+  "name": "ndiagrams",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dioni Alves",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react-network-diagrams": "^1.0.0"
+  }
+}
