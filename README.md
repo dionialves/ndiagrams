@@ -81,4 +81,5 @@ Há diversas melhorias planejadas para o futuro:
 - Permitir a edição do mapa diretamente pelo navegador;
 - Habilitar a criação de múltiplos mapas;
 - Melhorar a interface web para criar, editar e visualizar os mapas;
-- Integrar o NDiagrams com outras ferramentas de monitoramento.
+- Integrar o NDiagrams com outras ferramentas de monitoramento;
+- Adicionar docker.
